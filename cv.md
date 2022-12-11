@@ -33,3 +33,37 @@ Oh and by the way, I work in a warehouse (a hint of some logistics skills)
 - VS Code
 
 ---
+
+#### Code Example
+
+```
+function multiply(a, b)
+{
+  return a * b;
+}
+
+```
+
+---
+
+#### Work experience:
+
+_loading..._
+
+[small first project](https://frolicking-torte-51958e.netlify.app/)
+
+---
+
+#### Education:
+
+- University of Gdansk, Genetics and Experimental biology
+
+---
+
+#### Languages
+
+- **Russian** - native speaker
+- **English** - A2
+- **Polish** - B2
+
+# the end.
