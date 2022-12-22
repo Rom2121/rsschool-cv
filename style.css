@@ -1,4 +1,22 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
 aside {
   background: #385e1e;
   width: 370px;
+}
+* {
+  box-sizing: border-box;
+}
+.header {
+  border: 1px solid red;
+}
+.main {
+  border: 1px solid green;
+}
+.footer {
+  border: 1px solid blue;
 }
